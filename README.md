@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba. Ben Baki Yılmazer. Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Mühendisliği bölümünden 2022 yılında mezun oldum. Eğitim hayatım boyunca kendimi mobil ve oyun programlama üzerine geliştirmeye çalıştım. Şuan aktif olarak yeni bir teknoloji olan Flutter üzerine çalışmaktayım. Hedeflerim de mobil programlama da kendimi geliştirmek ve Flutter'a hakim olan bir yazılımcı olmak var. Bunun yanında Native programlama dillerinde de kendimi geliştirmeye çalışıyorum.
 
 <!--
 **bakiylmazer/BakiYlmazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
