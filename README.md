@@ -1,6 +1,8 @@
 <h1 align="left">Merhaba 👋</h1>
 Ben Baki Yılmazer. Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Mühendisliği bölümünden 2022 yılında mezun oldum. Eğitim hayatım boyunca kendimi mobil ve oyun programlama üzerine geliştirmeye çalıştım. Şuan aktif olarak SQL ve C# programlama dilleriyle çalışmaktayım. 
 
+
+
 <img align="right" alt="Coding" width="450" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
